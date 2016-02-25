@@ -13,8 +13,6 @@ namespace ConsoleApplication1
 
             //comment added
             Console.WriteLine("testing git");
-
-
         }
     }
 }
